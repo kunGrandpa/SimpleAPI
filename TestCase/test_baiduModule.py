@@ -16,4 +16,5 @@ class TestBaidu:
     @allure.title("")  # 用例标题
     @pytest.mark.parametrize()
     def test_case_1(self):
+
         pass

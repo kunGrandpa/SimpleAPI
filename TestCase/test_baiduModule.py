@@ -13,7 +13,6 @@ import allure
 class TestBaidu:
 
     @allure.story("百度请求")  # 用例名称，可以直接写接口名称
-    pass
     @allure.title("")  # 用例标题
     @pytest.mark.parametrize()
     def test_case_1(self):
